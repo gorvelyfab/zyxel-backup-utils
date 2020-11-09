@@ -3,7 +3,7 @@
 
 #### Requirements
 
-* nmap (Install can be done with your package manager)
+* nmap (Installation can be done with your package manager)
 
 #### Documentation
 
